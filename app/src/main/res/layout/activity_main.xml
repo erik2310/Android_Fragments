@@ -15,7 +15,7 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <!--
+
     <fragment
         android:name="erik2310.fragments.Fragment1"
         android:id="@+id/fragment1"
@@ -28,6 +28,6 @@
         android:layout_weight="1"
         android:layout_width="fill_parent"
         android:layout_height="match_parent" />
-        -->
+
 
 </android.support.constraint.ConstraintLayout>

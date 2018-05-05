@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        /*
         FragmentManager fragmentManager = getFragmentManager();
         FragmentTransaction fragmentTransaction =
                 fragmentManager.beginTransaction();
@@ -35,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
                     android.R.id.content, fragment2);
         }
         fragmentTransaction.commit();
+        */
 
     }
 }
